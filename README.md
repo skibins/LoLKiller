@@ -21,5 +21,5 @@ When **Alt+F4** is pressed, the script will automatically close the game without
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+NONE ✨
 
